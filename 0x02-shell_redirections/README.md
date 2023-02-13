@@ -1,2 +1,1 @@
-#!/bin/bash
-I/O redirection and filter
+# 0x02. Shell, I/O Redirections and filters
